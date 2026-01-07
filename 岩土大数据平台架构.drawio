@@ -16,21 +16,21 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WNQL-aIxxTiky-tFdBrI" name="计划">
-    <mxGraphModel dx="1783" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0" adaptiveColors="simple">
+    <mxGraphModel dx="1783" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0" adaptiveColors="simple">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AVXbY22pYZxpb8MqUqo9-61" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=90;horizontalStack=0;html=1;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=42;fontStyle=1;labelBackgroundColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rounded=0;" value="岩土大数据平台研发计划" vertex="1">
-          <mxGeometry height="710" width="1070" x="60" y="60" as="geometry" />
+        <mxCell id="AVXbY22pYZxpb8MqUqo9-61" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=71;horizontalStack=0;html=1;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=42;fontStyle=1;labelBackgroundColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rounded=0;fillColor=light-dark(#537F78,#EDEDED);swimlaneLine=1;glass=0;collapsible=0;" value="&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(237, 237, 237)); font-size: 28px;&quot;&gt;岩土大数据平台研发计划&lt;/font&gt;" vertex="1">
+          <mxGeometry height="610" width="1560" x="50" y="149" as="geometry" />
         </mxCell>
-        <mxCell id="AVXbY22pYZxpb8MqUqo9-62" parent="AVXbY22pYZxpb8MqUqo9-61" style="swimlane;startSize=80;horizontal=0;html=1;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=42;fontStyle=1;labelBackgroundColor=none;rounded=0;" value="Lane 1" vertex="1">
-          <mxGeometry height="120" width="1070" y="90" as="geometry" />
+        <mxCell id="AVXbY22pYZxpb8MqUqo9-62" parent="AVXbY22pYZxpb8MqUqo9-61" style="swimlane;startSize=110;horizontal=0;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=42;fontStyle=1;labelBackgroundColor=none;rounded=0;swimlaneFillColor=default;strokeColor=default;fillColor=light-dark(#537F78,#EDEDED);labelPosition=center;verticalLabelPosition=middle;expand=1;collapsible=0;textDirection=rtl;fontColor=default;spacing=0;swimlaneLine=1;" value="" vertex="1">
+          <mxGeometry height="70" width="1560" y="71" as="geometry" />
         </mxCell>
-        <mxCell id="AVXbY22pYZxpb8MqUqo9-63" parent="AVXbY22pYZxpb8MqUqo9-61" style="swimlane;startSize=80;horizontal=0;html=1;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=42;fontStyle=1;labelBackgroundColor=none;rounded=0;" value="Lane 2" vertex="1">
-          <mxGeometry height="120" width="1070" y="210" as="geometry" />
+        <mxCell id="AVXbY22pYZxpb8MqUqo9-66" parent="AVXbY22pYZxpb8MqUqo9-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontColor=light-dark(#ffffff, #ededed);fontStyle=1" value="&lt;font&gt;人员安排&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="AVXbY22pYZxpb8MqUqo9-64" parent="AVXbY22pYZxpb8MqUqo9-61" style="swimlane;startSize=80;horizontal=0;html=1;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=42;fontStyle=1;labelBackgroundColor=none;rounded=0;" value="Lane 3" vertex="1">
-          <mxGeometry height="380" width="1070" y="330" as="geometry" />
+        <mxCell id="AVXbY22pYZxpb8MqUqo9-64" parent="AVXbY22pYZxpb8MqUqo9-61" style="swimlane;startSize=110;horizontal=0;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontStyle=1;labelBackgroundColor=none;rounded=0;swimlaneFillColor=default;strokeColor=default;fillColor=light-dark(#537F78,#EDEDED);fontColor=light-dark(#fdfcfc, #ededed);html=1;convertToSvg=0;labelBorderColor=none;textShadow=0;collapsible=0;metaEdit=0;movableLabel=0;fixedWidth=0;autosize=0;" value="" vertex="1">
+          <mxGeometry height="469" width="1560" y="141" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
