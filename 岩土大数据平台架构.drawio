@@ -395,7 +395,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N346QiXC_WpXtyQsVrdA" name="技术路线">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -498,11 +498,8 @@
         <mxCell id="DkrKUsgFSZP6_-z4MrB_-41" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.28627450980390373;arrowSize=0.37647058823529844;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="800" y="647.5" as="geometry" />
         </mxCell>
-        <mxCell id="DkrKUsgFSZP6_-z4MrB_-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;glass=0;arcSize=4;fillColor=light-dark(#fef9dd, #ededed);strokeColor=light-dark(#3481de, #ededed);" value="" vertex="1">
-          <mxGeometry height="310" width="360" x="1010" y="230" as="geometry" />
-        </mxCell>
-        <mxCell id="DkrKUsgFSZP6_-z4MrB_-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#fdd165, #675000);strokeColor=light-dark(#000000, #8d7600);fontColor=light-dark(#ffffff, #ededed);" value="&lt;font style=&quot;font-size: 16px; color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;勘察内外业一体化平台&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="320" x="1030" y="240" as="geometry" />
+        <mxCell id="DkrKUsgFSZP6_-z4MrB_-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;glass=0;arcSize=4;fillColor=light-dark(#fef9dd, #ededed);strokeColor=light-dark(#000000,#EDEDED);" value="" vertex="1">
+          <mxGeometry height="530" width="360" x="1010" y="230" as="geometry" />
         </mxCell>
         <mxCell id="DkrKUsgFSZP6_-z4MrB_-44" parent="1" style="shape=doubleArrow;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#3A9BA7;strokeColor=#82b366;gradientDirection=south;" value="" vertex="1">
           <mxGeometry height="35" width="80" x="910" y="335" as="geometry" />
@@ -513,6 +510,21 @@
         <mxCell id="DkrKUsgFSZP6_-z4MrB_-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;glass=0;arcSize=4;fillColor=light-dark(#ecf7df, #ededed);strokeColor=light-dark(#000000,#EDEDED);dashed=1;" value="" vertex="1">
           <mxGeometry height="530" width="360" x="1480" y="230" as="geometry" />
         </mxCell>
+        <mxCell id="TxUx5ZYOJ00Z0Kwltu9N-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;岩土勘察内外业一体化平台&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1.完善数据编录及土工试验的功能&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;2.实现三维地质模型与平台的对接(gocad)&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3.建立三维地质报告体系&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="125" width="300" x="1040" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="TxUx5ZYOJ00Z0Kwltu9N-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;地质灾害监测预警与决策平台&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1.完善项目及数据管理功能，实现项目级权限管理体系&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;2.实现三维治理工程设计功能&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3.推进风险评价及应急决策相关模块&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="125" width="300" x="1040" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="TxUx5ZYOJ00Z0Kwltu9N-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;工地无人机智能巡检平台&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1.基于高斯泼溅的三维重建技术&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;2.完成工地巡检平台基础功能研发&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3.模型对比算法深化&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="125" width="300" x="1040" y="605" as="geometry" />
+        </mxCell>
+        <mxCell id="TxUx5ZYOJ00Z0Kwltu9N-7" parent="1" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=light-dark(#fdd166, #a05300);strokeColor=#d79b00;shadow=1;" value="" vertex="1">
+          <mxGeometry height="35" width="18.67" x="1180.67" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="TxUx5ZYOJ00Z0Kwltu9N-8" parent="1" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#ffcd28;gradientColor=light-dark(#fdd166, #a05300);shadow=1;" value="" vertex="1">
+          <mxGeometry height="35" width="18.67" x="1180.67" y="565" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -521,8 +533,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AVXbY22pYZxpb8MqUqo9-61" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=71;horizontalStack=0;html=1;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=42;fontStyle=1;labelBackgroundColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rounded=0;fillColor=light-dark(#537F78,#EDEDED);swimlaneLine=1;glass=0;collapsible=0;" value="&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(237, 237, 237)); font-size: 28px;&quot;&gt;岩土大数据平台研发计划&lt;/font&gt;" vertex="1">
-          <mxGeometry height="800" width="1560" x="50" y="149" as="geometry" />
+        <mxCell id="AVXbY22pYZxpb8MqUqo9-61" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=71;horizontalStack=0;html=1;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=42;fontStyle=1;labelBackgroundColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rounded=0;fillColor=light-dark(#537F78,#EDEDED);swimlaneLine=1;glass=0;collapsible=0;" value="&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(237, 237, 237)); font-size: 28px;&quot;&gt;岩土大数据平台研发计划（2026年）&lt;/font&gt;" vertex="1">
+          <mxGeometry height="730" width="1560" x="50" y="149" as="geometry" />
         </mxCell>
         <mxCell id="AVXbY22pYZxpb8MqUqo9-62" parent="AVXbY22pYZxpb8MqUqo9-61" style="swimlane;startSize=110;horizontal=0;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=42;fontStyle=1;labelBackgroundColor=none;rounded=0;swimlaneFillColor=default;strokeColor=default;fillColor=light-dark(#537F78,#EDEDED);labelPosition=center;verticalLabelPosition=middle;expand=1;collapsible=0;textDirection=rtl;fontColor=default;spacing=0;swimlaneLine=1;" value="" vertex="1">
           <mxGeometry height="70" width="1560" y="71" as="geometry" />
@@ -530,7 +542,7 @@
         <mxCell id="kYn1e0jhI0Uhn1rblkVl-1" parent="AVXbY22pYZxpb8MqUqo9-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#537f78, #ededed);align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px; color: light-dark(rgb(255, 255, 255), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;项目负责人：贾雨霏&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;前端开发：贾雨霏、邵珊珊、孙秀萍、罗江林&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;后端开发：刘艳&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;算法研发：罗江林&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="70" width="1450" x="110" as="geometry" />
         </mxCell>
-        <mxCell id="AVXbY22pYZxpb8MqUqo9-66" parent="AVXbY22pYZxpb8MqUqo9-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontColor=light-dark(#ffffff, #ededed);fontStyle=1" value="tuan" vertex="1">
+        <mxCell id="AVXbY22pYZxpb8MqUqo9-66" parent="AVXbY22pYZxpb8MqUqo9-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontColor=light-dark(#ffffff, #ededed);fontStyle=1" value="团队构成" vertex="1">
           <mxGeometry height="30" width="110" y="20" as="geometry" />
         </mxCell>
         <mxCell id="AVXbY22pYZxpb8MqUqo9-64" parent="AVXbY22pYZxpb8MqUqo9-61" style="swimlane;startSize=110;horizontal=0;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontStyle=1;labelBackgroundColor=none;rounded=0;swimlaneFillColor=default;strokeColor=default;fillColor=light-dark(#537F78,#EDEDED);fontColor=light-dark(#fdfcfc, #ededed);html=1;convertToSvg=0;labelBorderColor=none;textShadow=0;collapsible=0;metaEdit=0;movableLabel=0;fixedWidth=0;autosize=0;" value="" vertex="1">
@@ -546,7 +558,7 @@
           <mxGeometry height="110" width="60" x="25" y="420" as="geometry" />
         </mxCell>
         <mxCell id="kYn1e0jhI0Uhn1rblkVl-5" parent="AVXbY22pYZxpb8MqUqo9-64" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#00c5cd, #ededed);strokeColor=light-dark(#00c5cd, #ededed);strokeWidth=2;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;1~3月&lt;/font&gt;" vertex="1">
-          <mxGeometry height="69.5" width="69.5" x="215.25" y="255.75" as="geometry" />
+          <mxGeometry height="69.5" width="69.5" x="225.25" y="256.25" as="geometry" />
         </mxCell>
         <mxCell id="kYn1e0jhI0Uhn1rblkVl-6" edge="1" parent="AVXbY22pYZxpb8MqUqo9-64" style="endArrow=none;dashed=1;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#72dfd0, #ededed);strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -560,26 +572,56 @@
             <mxPoint x="1560" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kYn1e0jhI0Uhn1rblkVl-8" parent="AVXbY22pYZxpb8MqUqo9-64" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;2026年&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="70" x="130" y="275.5" as="geometry" />
-        </mxCell>
         <mxCell id="kYn1e0jhI0Uhn1rblkVl-10" edge="1" parent="AVXbY22pYZxpb8MqUqo9-64" source="kYn1e0jhI0Uhn1rblkVl-9" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#00c5cd, #ededed);" target="kYn1e0jhI0Uhn1rblkVl-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kYn1e0jhI0Uhn1rblkVl-9" parent="AVXbY22pYZxpb8MqUqo9-64" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#80d6b8, #ededed);strokeWidth=2;align=left;" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;1.完成建设方案的撰写及专家咨询，最终确定系统架构&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;2.学习微前端框架，搭建平台基础框架，完成应用解耦&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;3.&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="180" width="200" x="150" y="30" as="geometry" />
+        <mxCell id="kYn1e0jhI0Uhn1rblkVl-9" parent="AVXbY22pYZxpb8MqUqo9-64" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#80d6b8, #ededed);strokeWidth=2;align=left;" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;1.完成建设方案的撰写及专家咨询，最终确定系统架构&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;2.学习微前端框架，进行技术栈选型&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;3.搭建平台前端基础框架，完成应用解耦&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;4.根据业务需求进行服务解耦，建立微服务架构&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;（贾雨霏+后端技术人员）&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="190" width="240" x="140" y="20.5" as="geometry" />
         </mxCell>
-        <mxCell id="kYn1e0jhI0Uhn1rblkVl-11" parent="AVXbY22pYZxpb8MqUqo9-64" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#00c5cd, #ededed);strokeColor=light-dark(#00c5cd, #ededed);strokeWidth=2;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;4~5月&lt;/font&gt;" vertex="1">
-          <mxGeometry height="69.5" width="69.5" x="505.25" y="255.75" as="geometry" />
+        <mxCell id="kYn1e0jhI0Uhn1rblkVl-11" parent="AVXbY22pYZxpb8MqUqo9-64" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#66cdaa, #ededed);strokeColor=light-dark(#66cdaa, #ededed);strokeWidth=2;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;4~5月&lt;/font&gt;" vertex="1">
+          <mxGeometry height="69.5" width="69.5" x="525.25" y="256.25" as="geometry" />
         </mxCell>
-        <mxCell id="kYn1e0jhI0Uhn1rblkVl-12" edge="1" parent="AVXbY22pYZxpb8MqUqo9-64" source="kYn1e0jhI0Uhn1rblkVl-13" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#00c5cd, #ededed);" target="kYn1e0jhI0Uhn1rblkVl-11">
+        <mxCell id="kYn1e0jhI0Uhn1rblkVl-12" edge="1" parent="AVXbY22pYZxpb8MqUqo9-64" source="kYn1e0jhI0Uhn1rblkVl-13" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#66cdaa, #ededed);" target="kYn1e0jhI0Uhn1rblkVl-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kYn1e0jhI0Uhn1rblkVl-13" parent="AVXbY22pYZxpb8MqUqo9-64" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#80d6b8, #ededed);strokeWidth=2;align=left;" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;1.完成建设方案的撰写及专家咨询，最终确定系统架构&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;2.学习微前端框架，搭建平台基础框架，完成应用解耦&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;3.&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="180" width="200" x="440" y="30" as="geometry" />
+        <mxCell id="kYn1e0jhI0Uhn1rblkVl-13" parent="AVXbY22pYZxpb8MqUqo9-64" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#2bcfd5, #ededed);strokeWidth=2;align=left;" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;完成统一门户的建设，包括：&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;1.门户网站原型设计&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;2.门户网站用户及权限管理体系设计及研发&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;3.门户网站基础功能建设，如个人中心、模块管理、消息中心等&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;4.完成各业务系统的微应用集成，实现单点登录&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;（&lt;/font&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;贾雨霏、刘艳、邵珊珊、孙秀萍&lt;/span&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="190" width="240" x="440" y="20.5" as="geometry" />
         </mxCell>
-        <mxCell id="kYn1e0jhI0Uhn1rblkVl-14" parent="AVXbY22pYZxpb8MqUqo9-61" style="swimlane;startSize=110;horizontal=0;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontStyle=1;labelBackgroundColor=none;rounded=0;swimlaneFillColor=default;strokeColor=default;fillColor=light-dark(#537F78,#EDEDED);fontColor=light-dark(#fdfcfc, #ededed);html=1;convertToSvg=0;labelBorderColor=none;textShadow=0;collapsible=0;metaEdit=0;movableLabel=0;fixedWidth=0;autosize=0;" vertex="1">
-          <mxGeometry height="70" width="1560" y="730" as="geometry" />
+        <mxCell id="kYn1e0jhI0Uhn1rblkVl-20" edge="1" parent="AVXbY22pYZxpb8MqUqo9-64" source="kYn1e0jhI0Uhn1rblkVl-19" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=light-dark(#00c5cd, #ededed);entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="kYn1e0jhI0Uhn1rblkVl-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="259.5" y="330.5000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kYn1e0jhI0Uhn1rblkVl-19" parent="AVXbY22pYZxpb8MqUqo9-64" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#80d6b8, #ededed);strokeWidth=2;align=left;" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;无人机巡检平台：&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;1.完成无人机场采购工作，并进行设备调试对接&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;2.完成工地无人机巡检平台的研发工作&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;3.探索高斯泼溅三维重建技术&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;（罗江林、邵珊珊、刘艳）&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="240" x="140" y="380.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kYn1e0jhI0Uhn1rblkVl-21" edge="1" parent="AVXbY22pYZxpb8MqUqo9-64" source="kYn1e0jhI0Uhn1rblkVl-22" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=light-dark(#66cdaa, #ededed);entryX=0.5;entryY=1;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="325.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kYn1e0jhI0Uhn1rblkVl-22" parent="AVXbY22pYZxpb8MqUqo9-64" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#2bcfd5, #ededed);strokeWidth=2;align=left;" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;无人机巡检平台：&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;1.探索高斯泼溅三维重建技术&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;2.进行模型对比算法研发&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;（罗江林）&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="240" x="440" y="380.25" as="geometry" />
+        </mxCell>
+        <mxCell id="kYn1e0jhI0Uhn1rblkVl-23" parent="AVXbY22pYZxpb8MqUqo9-64" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#00c5cd, #ededed);strokeColor=light-dark(#00c5cd, #ededed);strokeWidth=2;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;6~9月&lt;/font&gt;" vertex="1">
+          <mxGeometry height="69.5" width="69.5" x="825.25" y="256.75" as="geometry" />
+        </mxCell>
+        <mxCell id="kYn1e0jhI0Uhn1rblkVl-27" edge="1" parent="AVXbY22pYZxpb8MqUqo9-64" source="kYn1e0jhI0Uhn1rblkVl-28" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=light-dark(#00c5cd, #ededed);entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="kYn1e0jhI0Uhn1rblkVl-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="859.5" y="331.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kYn1e0jhI0Uhn1rblkVl-28" parent="AVXbY22pYZxpb8MqUqo9-64" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#80d6b8, #ededed);strokeWidth=2;align=left;" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;无人机巡检平台：&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;1.&lt;/font&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;高斯泼溅三维重建技术及模型对比算法研究&lt;/span&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;（罗江林）&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;勘察内外业一体化平台：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1.完善现有编录及土工试验模块&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2.对接gocad，实现三维地质模型与自动化发布至平台&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3.建立三维地质报告体系及平台研发&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="240" x="740" y="381" as="geometry" />
+        </mxCell>
+        <mxCell id="CTanCroOIqDsAiEYnBg9-1" parent="AVXbY22pYZxpb8MqUqo9-64" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#66cdaa, #ededed);strokeColor=light-dark(#66cdaa, #ededed);strokeWidth=2;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;10~12月&lt;/font&gt;" vertex="1">
+          <mxGeometry height="69.5" width="69.5" x="1125.25" y="257" as="geometry" />
+        </mxCell>
+        <mxCell id="CTanCroOIqDsAiEYnBg9-2" edge="1" parent="AVXbY22pYZxpb8MqUqo9-64" source="CTanCroOIqDsAiEYnBg9-3" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#66cdaa, #ededed);" target="CTanCroOIqDsAiEYnBg9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CTanCroOIqDsAiEYnBg9-3" parent="AVXbY22pYZxpb8MqUqo9-64" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#2bcfd5, #ededed);strokeWidth=2;align=left;" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;完成实景三维GIS底座的建设，包括：&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;1.实景三维场景的基础功能（图层管理、地图工具、空间分析等）&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;2.多源异构数据解析及自动切片功能研发，包括数据一键导入子系统&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;3.多源异构及子业务平台数据的集成及管理&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(贾雨霏、刘艳、邵珊珊、孙秀萍、罗江林)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="190" width="240" x="1040" y="21.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
